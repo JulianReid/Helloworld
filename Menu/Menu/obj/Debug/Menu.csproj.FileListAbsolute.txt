@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\ireid\Desktop\WORK\WORK 2018\2nd Semester\GADE\2nd Semester\Downloaded Programs\Menu\Menu\obj\Debug\Menu.pdb
